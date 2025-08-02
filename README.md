@@ -1,6 +1,6 @@
 # first
 this is my first git repo
 <div>
-author-Jyoti tiwari
+author-Jyoti Tiwari
   
 </div>
